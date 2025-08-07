@@ -5,25 +5,25 @@ int main() {
     switch(digit)
     {
         case 0:
-         printf("Zero",digit);
+         printf("Zero");
          break;
         case 1:
-          printf("One",digit);
+          printf("One");
           break;
         case 2:
-          printf("Two",digit);
+          printf("Two");
           break;
         case 3:
-         printf("Three",digit);
+         printf("Three");
          break;
         case 4:
-         printf("Four",digit);
+         printf("Four");
          break;
         case 5:
-         printf("Five",digit);
+         printf("Five");
          break;
         case 6:
-         printf("Six",digit);
+         printf("Six");
          break;
          default:
          printf("Invalid Input");
